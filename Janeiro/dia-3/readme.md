@@ -1,0 +1,1 @@
+# Remoção de fundo com o [remove bg](https://www.remove.bg/pt-br)
