@@ -1,0 +1,1 @@
+# Unicodes com esse [site](https://unicodes.jessetane.com/)

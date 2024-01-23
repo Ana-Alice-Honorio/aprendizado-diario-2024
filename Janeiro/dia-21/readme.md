@@ -1,0 +1,1 @@
+# Treinar codificação com o [codewars](https://www.codewars.com/)
